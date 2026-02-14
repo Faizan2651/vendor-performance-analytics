@@ -48,5 +48,6 @@ Data Analyst | Python Developer
 
 ## 📊 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
+
 
